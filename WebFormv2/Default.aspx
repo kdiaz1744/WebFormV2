@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>UMSv2</h1>
-        <p class="lead">This project was assigned as practice, and a test of skills, for an upcoming project. Please log in to get started. 
+        <p class="lead">This project was assigned as practice, and a test of skills, for an upcoming contract. Please log in to get started. 
             If you have any trouble at all, please contact an admin to help you out.
         </p>
 
